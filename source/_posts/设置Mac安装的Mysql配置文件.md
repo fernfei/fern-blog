@@ -46,6 +46,7 @@ socket      = /tmp/mysql.sock
 # Here follows entries for some specific programs
 # The MySQL server
 [mysqld]
+sql_mode=STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
 default-storage-engine=INNODB
 character-set-server=utf8
 collation-server=utf8_general_ci
@@ -104,9 +105,6 @@ no-auto-rehash
 # sort_buffer_size = 8M
 [mysqlhotcopy]
 interactive-timeout
-[mysqld]
-sql_mode=STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
-
 ```
 
 #### 2.2指定my.cnf
