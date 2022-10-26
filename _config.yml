@@ -8,12 +8,12 @@ subtitle: 'Fern Blog'
 description: 'JavaWeb'
 keywords:
 author: Fern
-language: zh-CN
+language: en
 timezone: 'asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://www.hi-hufei.com
 permalink: /post/:title.html
 permalink_defaults:
 pretty_urls:
