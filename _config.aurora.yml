@@ -113,7 +113,7 @@ gitalk:
   enable: true
   autoExpand: true
   clientID: '5081b5ca01d24a2abff1'
-  clientSecret: '4a7c6e1bf053bb61d48ca096b1d47b2e219c8c6f'
+  clientSecret: '3d4e17c82c8eec17402357b062b33d67d67409cf'
   repo: 'blog-comments'
   owner: 'fernfei'
   admin: ['fernfei']
