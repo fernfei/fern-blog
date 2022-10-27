@@ -122,6 +122,8 @@ gitalk:
   distractionFreeMode: true
   recentComment: true
   proxy: ''
+  name: 'Fern'
+  title: 'Fern'
 
 # Valine comment plugin (recommended!)
 # see https://valine.js.org/quickstart.html
@@ -376,4 +378,5 @@ aurora_bot:
 #! ---------------------------------------------------------------
 injects:
   scripts:
+    - <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js?id=JrJV1qPgjOJP2ryY&ck=JrJV1qPgjOJP2ryY"></script>
   css:
