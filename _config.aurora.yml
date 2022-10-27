@@ -10,7 +10,7 @@
 #! ---------------------------------------------------------------
 site:
   subtitle: Fern's Blog
-  author: Fern
+  author: blog-author
   nick: Fern
   keywords: Fern|Java|Leetcode
   description: 一位正在重塑知识的技术人
@@ -40,6 +40,12 @@ authors:
   #   description: 'Think like an artist, code like an artisan.'
   #   socials:
   #     github: https://tridiamond.tech
+friends:
+  Fern:
+    name: Fern
+    intro: 一个正在重塑知识的技术人
+    avatar: http://image.hi-hufei.com/typora/42832987.jpeg
+    link: http://www.hi-hufei.com
 
 #! ---------------------------------------------------------------
 #! Menu Configs
@@ -49,6 +55,7 @@ menu:
   About: true
   Tags: true
   Archives: true
+  Friends: true
   # 自定义菜单
   message-board:
     name: 'MessageBoard'
@@ -115,8 +122,8 @@ gitalk:
   clientID: '5081b5ca01d24a2abff1'
   clientSecret: '3d4e17c82c8eec17402357b062b33d67d67409cf'
   repo: 'blog-comments'
-  owner: 'fernfei'
-  admin: ['fernfei']
+  owner: 'Fernfei'
+  admin: ['Fernfei']
   id: uid
   language: en
   distractionFreeMode: true
