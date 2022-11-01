@@ -10,6 +10,9 @@ A prolific Web developer with experience in Java, Javascript, Vue, Webpack, Lara
 
 欢迎来到我的博客, 我是Fern  
 
-
 追求极致, 追求完美, 喜欢一个高效, 优雅, 高凝聚力的团队,
 立志于打造最优秀的产品, 成为一名既优雅而有深度的技术人才。
+
+[![Anurag's GitHub stats](http://image.hi-hufei.com/typora/api)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](http://image.hi-hufei.com/typora/-20221101101806487)](https://github.com/anuraghazra/github-readme-stats)
