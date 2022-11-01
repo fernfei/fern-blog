@@ -5,7 +5,6 @@ tags:
 - hexo
 categoryies:
 - 记录
-cover: http://image.hi-hufei.com/typora/photo-1441915004818-433bb3246e45?ixlib=rb-4.0.jpeg
 ---
 
 ### 1.背景
