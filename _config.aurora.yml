@@ -24,8 +24,8 @@ site:
     number: ''
     link: ''
   police_beian:
-    number: ''
-    link: ''
+    number: '皖ICP备20003662号-1'
+    link: 'https://beian.miit.gov.cn/'
 
 #! ---------------------------------------------------------------
 #! Authors Configs

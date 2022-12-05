@@ -119,9 +119,9 @@ docker run \
     --publish 8222:22 \
     --name gitlab \
     --privileged=true \
-    -v /root/data/gitlab/etc/conf:/etc/gitlab:z \
-    -v /root/data/gitlab/etc/logs:/var/log/gitlab:z \
-    -v /root/data/gitlab/etc/data:/var/opt/gitlab:z \
+    -v /root/data/gitlab/conf:/etc/gitlab:z \
+    -v /root/data/gitlab/logs:/var/log/gitlab:z \
+    -v /root/data/gitlab/data:/var/opt/gitlab:z \
     docker.io/yrzr/gitlab-ce-arm64v8
 ```
 
