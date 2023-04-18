@@ -9,7 +9,7 @@ tags:
 
 如果你只是使用onlyoffice的基础功能不打算二次开发或者简单添加自己的需求等，那么你可以按照官网的Document-Server的教程使用即可
 
-[DocumentServer安装及使用]: https://api.onlyoffice.com/editors/basic
+[DocumentServer安装及使用](https://api.onlyoffice.com/editors/basic)
 
 简单介绍一下官网中的DocumentServer和DocumentBuilder的区别
 
