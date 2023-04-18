@@ -88,7 +88,7 @@ sudo docker run -i -t -d -p 9700:80 -p 9800:8000 \
 
 开源的版本是有20人数限制想提升人数两种方式：
 
-- [购买企业版]: https://www.onlyoffice.com/docs-enterprise-prices.aspx?utm_source=github&amp;amp;utm_medium=cpc&amp;amp;utm_campaign=GitHubDS
+- [购买企业版](https://www.onlyoffice.com/docs-enterprise-prices.aspx?utm_source=github&amp;amp;utm_medium=cpc&amp;amp;utm_campaign=GitHubDS)
 
 - 修改源码并编译
 
@@ -170,7 +170,7 @@ cd build_tools/tools/linux
 
 ##### 2.3.1. 官方启动教程
 
-[官方提供的方式]: https://helpcenter.onlyoffice.com/installation/docs-community-compile.aspx
+[官方教程](https://helpcenter.onlyoffice.com/installation/docs-community-compile.aspx)
 
 ##### 2.3.2. 使用我编译好的版本
 
